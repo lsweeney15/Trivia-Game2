@@ -5,7 +5,7 @@ This repository is for homework assignment #5 for University of Miami Coding Boo
 
 This game was built with HTML, CSS and JavaScript.
 
-## It's hosted online here: https://lsweeney15.github.io/trivia-game/
+## It's hosted online here: https://lsweeney15.github.io/Trivia-Game2/
 
 ## How to Play:
 1. After clicking the "Get to work" button, the user will enter the Trivia Game screen which contains 10 questions based on the show, "The Office". The timer will begin to count down from 60 seconds.
