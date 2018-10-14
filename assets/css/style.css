@@ -1,0 +1,190 @@
+body {
+    background-image: url('../images/OfficeBg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top; 
+    position: relative;
+    font-family: 'Anton', sans-serif;
+    color: black;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 50px;
+    color: orange;
+    margin-top:5px;
+}
+
+h2 {
+    color: #000063;
+    font-family: 'Anton', sans-serif;
+}
+
+h3 {
+margin-bottom: 0px;
+}
+
+.btn-primary{
+    padding: 10 20;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin: 30 0;
+}
+
+.btn-primary:hover {
+    padding: 10 20;
+    font-size: 20px;
+    letter-spacing: 2px;
+    background-color: red;
+    border:white solid 1px;
+    margin: 30 0;
+}
+
+.btn {
+    margin: 60 0 60 0;
+}
+
+.rules{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#splashscreen {
+    background-image: url('../images/PaperTexture.jpg');
+    background-repeat: no-repeat;
+    width: 35%;
+    position: relative;
+    top: 120px;
+    left: 150px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.black-background {
+    background-color: #000063;
+}
+
+#start-btn {
+    padding: 10 20;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+#start-btn:hover {
+    padding: 10 20;
+    font-size: 20px;
+    letter-spacing: 2px;
+    background-color: red;
+    border:white solid 1px;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.splashBox {
+    margin: 0 auto;
+    text-align: center;
+    padding: 4%;
+    margin-top: 40%;
+    color: #000063;
+}
+
+.splashBox2 {
+    margin: 0 auto;
+    text-align: center;
+    padding: 4%;
+}
+
+.wrongBox {
+    margin: 0 auto;
+    text-align: center;
+    padding: 4%;
+}
+
+label {
+    color: orange;
+}
+
+#answerScreen {
+    display: none;
+    background-image: url('../images/PaperTexture.jpg');
+    background-repeat: no-repeat;
+    width: 35%;
+    position: relative;
+    top: 120px;
+    left: 150px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+#timesUp {
+    display: none;
+    background-image: url('../images/PaperTexture.jpg');
+    background-repeat: no-repeat;
+    width: 35%;
+    position: relative;
+    top: 390px;
+    left: 150px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.up {
+    color: red;
+}
+
+.timeRemain #time-remain {
+    font-size: 90px;
+    color: red;
+    margin-bottom: 0px;
+}
+
+body .container {
+    background-image: url('../images/PaperTexture.jpg');
+    height: 50%;
+    text-align: center;
+    display: none;
+    margin-bottom: 5%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2)
+}
+
+.questions {
+    font-size: 20px;
+    margin: 0 20 0 20;
+    ]
+}
+
+.ques,
+label {
+    padding: 1%;
+}
+
+#correctScreen {
+    color: green;
+    font-size: 24px;
+}
+
+#correctTimesUp {
+    color: green;
+    font-size: 24px;
+}
+
+#wrongTimesUp {
+    color: red;
+    font-size: 24px;
+}
+
+#wrongScreen {
+    color: red;
+    font-size: 24px;
+}
+
+header {
+    font-size: 60px;
+    color: #000063;
+    margin-top: 8%;
+}
